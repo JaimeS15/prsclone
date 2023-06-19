@@ -1,0 +1,7 @@
+# files to ignore (sensitive, too big, or unneeded)
+trace_data
+Household_Travel_Survey_Persons.csv
+Household_Travel_Survey_Trips.csv
+
+.ipynb_checkpoints
+.DS_Store
